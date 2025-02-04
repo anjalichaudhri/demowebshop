@@ -1,0 +1,5 @@
+com\tricentis\pages\RegistrationPage.class
+com\tricentis\tests\AutomationTest.class
+com\tricentis\pages\LoginPage.class
+com\tricentis\pages\SearchPage.class
+com\tricentis\base\browserSingleton.class
