@@ -116,8 +116,11 @@ This project provides a scalable **Test Automation Framework** using **Selenium 
 
 📢 **Feel free to contribute or report issues!**
 
+## 📌 Output
+Please refer to the folder outputVideo to see the video of the project run output.
+
 ---
-✅ **Author**: Your Name  
+✅ **Author**: Anjali  
 📅 **Last Updated**: February 2025
 
 
