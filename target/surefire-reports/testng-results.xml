@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-04T18:32:01 IST" name="Surefire suite" finished-at="2025-02-04T18:32:25 IST" duration-ms="23740">
+  <suite started-at="2025-02-04T18:39:10 IST" name="Surefire suite" finished-at="2025-02-04T18:39:38 IST" duration-ms="27737">
     <groups>
     </groups>
-    <test started-at="2025-02-04T18:32:01 IST" name="Surefire test" finished-at="2025-02-04T18:32:25 IST" duration-ms="23740">
+    <test started-at="2025-02-04T18:39:10 IST" name="Surefire test" finished-at="2025-02-04T18:39:38 IST" duration-ms="27737">
       <class name="com.tricentis.tests.AutomationTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:32:01 IST" name="setup" finished-at="2025-02-04T18:32:06 IST" duration-ms="4937" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:39:10 IST" name="setup" finished-at="2025-02-04T18:39:16 IST" duration-ms="5668" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testUserRegistration()[pri:1, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:32:06 IST" name="testUserRegistration" finished-at="2025-02-04T18:32:09 IST" duration-ms="3253" status="PASS">
+        <test-method signature="testUserRegistration()[pri:1, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:39:16 IST" name="testUserRegistration" finished-at="2025-02-04T18:39:20 IST" duration-ms="4375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUserRegistration -->
-        <test-method signature="testUserLogin()[pri:2, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:32:09 IST" name="testUserLogin" finished-at="2025-02-04T18:32:11 IST" duration-ms="1572" status="PASS">
+        <test-method signature="testUserLogin()[pri:2, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:39:20 IST" name="testUserLogin" finished-at="2025-02-04T18:39:22 IST" duration-ms="2030" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUserLogin -->
-        <test-method signature="testAddItemToCart()[pri:3, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:32:11 IST" name="testAddItemToCart" finished-at="2025-02-04T18:32:25 IST" duration-ms="13675" status="PASS">
+        <test-method signature="testAddItemToCart()[pri:3, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:39:22 IST" name="testAddItemToCart" finished-at="2025-02-04T18:39:37 IST" duration-ms="15188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddItemToCart -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:32:25 IST" name="teardown" finished-at="2025-02-04T18:32:25 IST" duration-ms="261" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tricentis.tests.AutomationTest@1534f01b]" started-at="2025-02-04T18:39:37 IST" name="teardown" finished-at="2025-02-04T18:39:38 IST" duration-ms="420" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
